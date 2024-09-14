@@ -1,0 +1,9 @@
+.app {
+  display: flex;
+}
+
+.main-content {
+  margin-left: 220px; /* Để đủ khoảng trống cho sidebar */
+  padding: 20px;
+  flex-grow: 1;
+}
