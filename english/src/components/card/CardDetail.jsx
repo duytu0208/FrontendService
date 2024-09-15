@@ -9,8 +9,10 @@ function CardDetail({ cardData, showFront, onToggle }) {
 
     const handleSpeech = (text) => {
         const msg = new SpeechSynthesisUtterance(text);
+        msg.rate = 0.75; // Đặt tốc độ đọc xuống 0.75
         window.speechSynthesis.speak(msg);
     };
+
 
     return (
         <div className="card">

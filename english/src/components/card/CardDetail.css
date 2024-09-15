@@ -17,12 +17,13 @@
     border-radius: 4px;
     position: relative; /* Đặt relative để căn chỉnh tuyệt đối các nút bên trong */
     overflow: hidden; /* Ẩn nội dung vượt quá kích thước */
+    margin-bottom: 15px;
 }
 
 .component2 {
     border-radius: 4px;
     padding: 10px;
-    margin-bottom: 10px;
+    margin-bottom: 0px;
     background-color: #f9f9f9;
 }
 
@@ -70,9 +71,9 @@
 
 .back-content {
     font-size: 1.3rem; /* Kích thước chữ cho mặt sau */
-    /*text-align: left; !* Căn trái cho mặt sau *!*/
-    text-align: center;
-    /*display: flex;*/
+    text-align: left; /* Căn trái cho mặt sau */
+    /*text-align: center;*/
+    display: flex;
 }
 
 .component1-buttons {

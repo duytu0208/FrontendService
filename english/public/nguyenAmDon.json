@@ -1,102 +1,141 @@
 [
   {
     "front": "/i:/",
-    "back": "I dài, Thanh ngang, đọc dài ra xíu",
+    "back": "I dài, Thanh ngang, đọc dài ra xíu\nmở miệng nhỏ và giữ lưỡi ở gần vòm miệng.",
     "notes": [
-      { "note1": "feet, sheet, beach, see, free, green, sweet, teacher", "isRead": true }
+      { "note1": "Sheep sleep deep.", "isRead": true },
+      { "note1": "She sees the sea.", "isRead": true },
+      { "note1": "We need a clean sheet.", "isRead": true },
+      { "note1": "He will meet me at three.", "isRead": true }
     ],
     "audio": "https://st.ielts-fighter.com/src/ielts-fighter/2019/09/09/i%20d%C3%A0i.mp3"
   },
   {
     "front": "/ɪ/",
-    "back": "I ngắn, đọc hơi có âm sắc trong đó xíu",
+    "back": "I ngắn, đọc hơi có âm sắc trong đó xíu\nmở miệng nhỏ hơn so với âm /i:/ và lưỡi đặt thấp hơn.",
     "notes": [
-      { "note1": "fit, shit, bitch, sit", "isRead": true }
+      { "note1": "The ship is in the big sea.", "isRead": true },
+      { "note1": "This is a big lid.", "isRead": true },
+      { "note1": "The fish is in the bin.", "isRead": true },
+      { "note1": "Hit the tick with a stick.", "isRead": true }
     ],
     "audio": "https://st.ielts-fighter.com/src/ielts-fighter/2019/09/09/i%20ng%E1%BA%AFn.mp3"
   },
   {
     "front": " /u:/",
-    "back": "U dài, thanh ngang và dài ra",
+    "back": "U dài, thanh ngang và dài ra\nmở miệng nhỏ hơn và môi tròn hơn so với âm /ʊ/.",
     "notes": [
-      { "note1": "food, tool, school", "isRead": true }
+      { "note1": "food, tool, school", "isRead": true },
+      { "note1": "The moon is huge and full.", "isRead": true },
+      { "note1": "The moon is full.", "isRead": true },
+      { "note1": "I need a new shoe.", "isRead": true },
+      { "note1": "The food is too good.", "isRead": true }
     ],
     "audio": "https://st.ielts-fighter.com/src/ielts-fighter/2019/09/09/u%20d%C3%A0i.mp3"
   },
   {
     "front": " /ʊ/",
-    "back": "U ngắn, đọc hơi có dấu sắc xíu",
+    "back": "U ngắn, đọc hơi có dấu sắc xíu\nmở miệng nhỏ và môi tròn.",
     "notes": [
-      { "note1": "foot, would, book", "isRead": true }
+      { "note1": "foot, would, book", "isRead": true },
+      { "note1": "The book is good.", "isRead": true },
+      { "note1": "Put the foot in the boot.", "isRead": true },
+      { "note1": "Look at the wood.", "isRead": true }
     ],
     "audio": "https://st.ielts-fighter.com/src/ielts-fighter/2019/09/09/u%20ng%E1%BA%AFn.mp3"
   },
   {
     "front": "/ɜ:/",
-    "back": "Ơ dài, đọc hơi có chữ R trong đó",
+    "back": "Ơ dài, đọc hơi có chữ R trong đó\nkéo dài âm này và giữ cho miệng hơi mở, với phần lưỡi ở giữa miệng",
     "notes": [
       { "note1": "work, stir, observe, girl, earth, earn", "isRead": true },
-      { "note2": "I walk to work", "isRead": true }
+      { "note2": "I walk to work", "isRead": true },
+      { "note1": "Turn the curve and find the girl.", "isRead": true },
+      { "note1": "The bird is flying over the earth.", "isRead": true },
+      { "note1": "Her purse is near the church.", "isRead": true }
     ],
     "audio": "https://st.ielts-fighter.com/src/ielts-fighter/2019/09/09/%C6%A1%20d%C3%A0i.mp3"
   },
   {
     "front": "/ə/",
-    "back": "Ơ ngắn, rất nhẹ và ngắn",
+    "back": "Ơ ngắn\nphát âm nhanh, với miệng mở ở mức tối thiểu.\nmở miệng nhẹ và lưỡi ở trung tâm, đây là âm trung tâm nhất.\n\n",
     "notes": [
-      { "note1": "along, ago, teacher, doctor", "isRead": true }
+      { "note1": "along, ago, teacher, doctor", "isRead": true },
+      { "note1": "The sofa is comfortable.", "isRead": true },
+      { "note1": "She is about to leave.", "isRead": true },
+      { "note1": "The teacher is late.", "isRead": true }
     ],
     "audio": "https://st.ielts-fighter.com/src/ielts-fighter/2019/09/09/%C6%A1%20ng%E1%BA%AFn.mp3"
   },
   {
     "front": " /ɔ:/",
-    "back": "O dài, giống âm O trong tiếng Việt nhưng dài ra xíu",
+    "back": "O dài, giống âm O trong tiếng Việt nhưng dài ra xíu\nmở miệng rộng và môi tròn hơn so với /ɒ/.",
     "notes": [
       { "note1": "walk, door, score, order, orange", "isRead": true },
-      { "note2": "I walk to work", "isRead": true }
+      { "note1": "The door is closed.", "isRead": true },
+      { "note1": "I saw a tall hawk.", "isRead": true },
+      { "note1": "The store is far.", "isRead": true }
     ],
     "audio": "https://st.ielts-fighter.com/src/ielts-fighter/2019/09/09/o%20d%C3%A0i.mp3"
   },
   {
     "front": " /ɒ/",
-    "back": "O ngắn",
+    "back": "O ngắn\nmở miệng rộng hơn và môi hơi tròn.",
     "notes": [
-      { "note1": "hot, shop , stop", "isRead": true }
+      { "note1": "hot, shop , stop", "isRead": true },
+      { "note1": "The dog is in the box.", "isRead": true },
+      { "note1": "The hot pot is on the top.", "isRead": true },
+      { "note1": "The sock is on the log.", "isRead": true }
     ],
     "audio": "https://st.ielts-fighter.com/src/ielts-fighter/2019/09/09/o%20ng%E1%BA%AFn.mp3"
   },
   {
     "front": " /æ/",
-    "back": "Cách đọc 1: âm A giống tiếng Việt.\nCách đọc 2: mở miệng chữ A đọc chữ E",
+    "back": "Cách đọc 1: âm A giống tiếng Việt.\nCách đọc 2: mở miệng chữ A đọc chữ E\nmiệng mở rộng và lưỡi hạ thấp, tạo cảm giác âm thanh rõ và sắc nét.",
     "notes": [
       { "note1": "Cách 1: apple, after, hat", "isRead": true },
       { "note2": "Cách 2: man, has", "isRead": true },
       { "note3": "A man has a plan", "isRead": true },
-      { "note4": "He can't can a can", "isRead": true }
+      { "note4": "He can't can a can", "isRead": true },
+      { "note1": "The cat sat on the mat.", "isRead": true },
+      { "note1": "An apple is on the table.", "isRead": true },
+      { "note1": "He has a black hat.", "isRead": true }
     ],
     "audio": "https://st.ielts-fighter.com/src/ielts-fighter/2019/09/09/ae.mp3"
   },
   {
     "front": " /ʌ/",
-    "back": "Ơ ngắn",
+    "back": "Ơ ngắn\nmở miệng rộng hơn và giữ lưỡi ở trung tâm.",
     "notes": [
-      { "note1": "love, cup, money", "isRead": true }
+      { "note1": "love, cup, money", "isRead": true },
+      { "note1": "The sun is up in the sky.", "isRead": true },
+      { "note1": "I cut the cup.", "isRead": true },
+      { "note1": "The sun is up.", "isRead": true },
+      { "note1": "She loves the fun run.", "isRead": true }
     ],
     "audio": "https://st.ielts-fighter.com/src/ielts-fighter/2019/09/09/a%20ng%E1%BA%AFn.mp3"
   },
   {
     "front": "/ɑ:/",
-    "back": "OA chữ a nhẹ cuối",
+    "back": "AAAA\n mở miệng rộng và lưỡi ở thấp, miệng hơi tròn.",
     "notes": [
-      { "note1": "heart, car, far, often", "isRead": true }
+      { "note1": "heart, car, far, often", "isRead": true },
+      { "note1": "The car is parked far away.", "isRead": true },
+      { "note1": "The car is parked far.", "isRead": true },
+      { "note1": "They saw the star.", "isRead": true },
+      { "note1": "The park is large.", "isRead": true }
     ],
     "audio": "https://st.ielts-fighter.com/src/ielts-fighter/2019/09/09/a%20d%C3%A0i.mp3"
   },
   {
     "front": "/e/",
-    "back": "E ngắn, đọc y chang tiếng Việt ",
+    "back": "E ngắn, đọc y chang tiếng Việt\nmở miệng vừa phải và giữ lưỡi ở giữa miệng. ",
     "notes": [
-      { "note1": "bed, head, many, scary", "isRead": true }
+      { "note1": "bed, head, many, scary", "isRead": true },
+      { "note1": "The red pen is on the desk.", "isRead": true },
+      { "note1": "They went to bed.", "isRead": true },
+      { "note1": "She said it was red.", "isRead": true },
+      { "note1": "The pen is on the desk.", "isRead": true }
     ],
     "audio": "https://st.ielts-fighter.com/src/ielts-fighter/2019/09/09/e.mp3"
   }
