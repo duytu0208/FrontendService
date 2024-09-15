@@ -19,18 +19,19 @@ function CardDetail({ cardData, showFront, onToggle }) {
                     const noteKey = Object.keys(note)[0];
                     return (
                         <div key={index} className="note">
-
-                            {note.isRead && (
-                                <button
-                                    className="btn-speech-note"
-                                    onClick={() => handleSpeech(note[noteKey])}
-                                    aria-label="Read Aloud"
-                                >
-                                    <FontAwesomeIcon icon={faVolumeUp} />
-                                </button>
-                            )}
-                            <p>{note[noteKey]}</p>
-                            <hr width="90%" align="center" />
+                            <div className="note-content"> {/* Thêm div này */}
+                                {note.isRead && (
+                                    <button
+                                        className="btn-speech-note"
+                                        onClick={() => handleSpeech(note[noteKey])}
+                                        aria-label="Read Aloud"
+                                    >
+                                        <FontAwesomeIcon icon={faVolumeUp} />
+                                    </button>
+                                )}
+                                <p>{note[noteKey]}</p>
+                            </div>
+                            {/*<hr width="90%" align="center" />*/}
                         </div>
                     );
                 })}

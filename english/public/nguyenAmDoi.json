@@ -1,0 +1,65 @@
+[
+  {
+    "front": " /aɪ/",
+    "back": "AI trong tiếng việt",
+    "notes": [
+      { "note1": "nice, fine, like", "isRead": true },
+      { "note2": "I like my nice eyes", "isRead": true }
+    ],
+    "audio": "https://st.ielts-fighter.com/src/ielts-fighter/2019/09/09/a%C9%AA.mp3"
+  },
+  {
+    "front": "/eɪ/",
+    "back": "EY trong tiếng Việt",
+    "notes": [
+      { "note1": "face, gay day", "isRead": true },
+      { "note2": "They say your face looks gay", "isRead": true }
+    ],
+    "audio": "https://st.ielts-fighter.com/src/ielts-fighter/2019/09/09/ei.mp3"
+  },
+  {
+    "front": "/əʊ/",
+    "back": "ÂU trong tiếng Việt ",
+    "notes": [
+      { "note1": "bowl, ghost, no", "isRead": true },
+      { "note2": "The ghost likes throwing bowls", "isRead": true }
+    ],
+    "audio": "https://st.ielts-fighter.com/src/ielts-fighter/2019/09/09/a%CA%8A.mp3"
+  },
+  {
+    "front": "/aʊ/",
+    "back": "AO trong tiếng Việt",
+    "notes": [
+      { "note1": "now, sound, wow", "isRead": true },
+      { "note2": "now say the wow and get out", "isRead": true }
+    ],
+    "audio": "https://st.ielts-fighter.com/src/ielts-fighter/2019/09/09/%C9%99%CA%8A.mp3"
+  },
+  {
+    "front": " /ɔɪ/ ",
+    "back": "OY trong tiếng Việt",
+    "notes": [
+      { "note1": "boy, noise, toy", "isRead": true },
+      { "note2": "The boy like toys. They make noise", "isRead": true }
+    ],
+    "audio": "https://st.ielts-fighter.com/src/ielts-fighter/2019/09/09/oi.mp3"
+  },
+  {
+    "front": " /eə/",
+    "back": "EỜ",
+    "notes": [
+      { "note1": "chair, hair, there", "isRead": true },
+      { "note2": "There are 3 hairs on the chair", "isRead": true }
+    ],
+    "audio": "https://st.ielts-fighter.com/src/ielts-fighter/2019/09/09/ea.mp3"
+  },
+  {
+    "front": " /ɪə/",
+    "back": "IA-Ờ",
+    "notes": [
+      { "note1": "near, fear, spear", "isRead": true },
+      { "note2": "The spear is near my ear", "isRead": true }
+    ],
+    "audio": "https://st.ielts-fighter.com/src/ielts-fighter/2019/09/09/ie.mp3"
+  }
+]

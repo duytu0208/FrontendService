@@ -1,0 +1,103 @@
+[
+  {
+    "front": "/i:/",
+    "back": "I dài, Thanh ngang, đọc dài ra xíu",
+    "notes": [
+      { "note1": "feet, sheet, beach, see, free, green, sweet, teacher", "isRead": true }
+    ],
+    "audio": "https://st.ielts-fighter.com/src/ielts-fighter/2019/09/09/i%20d%C3%A0i.mp3"
+  },
+  {
+    "front": "/ɪ/",
+    "back": "I ngắn, đọc hơi có âm sắc trong đó xíu",
+    "notes": [
+      { "note1": "fit, shit, bitch, sit", "isRead": true }
+    ],
+    "audio": "https://st.ielts-fighter.com/src/ielts-fighter/2019/09/09/i%20ng%E1%BA%AFn.mp3"
+  },
+  {
+    "front": " /u:/",
+    "back": "U dài, thanh ngang và dài ra",
+    "notes": [
+      { "note1": "food, tool, school", "isRead": true }
+    ],
+    "audio": "https://st.ielts-fighter.com/src/ielts-fighter/2019/09/09/u%20d%C3%A0i.mp3"
+  },
+  {
+    "front": " /ʊ/",
+    "back": "U ngắn, đọc hơi có dấu sắc xíu",
+    "notes": [
+      { "note1": "foot, would, book", "isRead": true }
+    ],
+    "audio": "https://st.ielts-fighter.com/src/ielts-fighter/2019/09/09/u%20ng%E1%BA%AFn.mp3"
+  },
+  {
+    "front": "/ɜ:/",
+    "back": "Ơ dài, đọc hơi có chữ R trong đó",
+    "notes": [
+      { "note1": "work, stir, observe, girl, earth, earn", "isRead": true },
+      { "note2": "I walk to work", "isRead": true }
+    ],
+    "audio": "https://st.ielts-fighter.com/src/ielts-fighter/2019/09/09/%C6%A1%20d%C3%A0i.mp3"
+  },
+  {
+    "front": "/ə/",
+    "back": "Ơ ngắn, rất nhẹ và ngắn",
+    "notes": [
+      { "note1": "along, ago, teacher, doctor", "isRead": true }
+    ],
+    "audio": "https://st.ielts-fighter.com/src/ielts-fighter/2019/09/09/%C6%A1%20ng%E1%BA%AFn.mp3"
+  },
+  {
+    "front": " /ɔ:/",
+    "back": "O dài, giống âm O trong tiếng Việt nhưng dài ra xíu",
+    "notes": [
+      { "note1": "walk, door, score, order, orange", "isRead": true },
+      { "note2": "I walk to work", "isRead": true }
+    ],
+    "audio": "https://st.ielts-fighter.com/src/ielts-fighter/2019/09/09/o%20d%C3%A0i.mp3"
+  },
+  {
+    "front": " /ɒ/",
+    "back": "O ngắn",
+    "notes": [
+      { "note1": "hot, shop , stop", "isRead": true }
+    ],
+    "audio": "https://st.ielts-fighter.com/src/ielts-fighter/2019/09/09/o%20ng%E1%BA%AFn.mp3"
+  },
+  {
+    "front": " /æ/",
+    "back": "Cách đọc 1: âm A giống tiếng Việt.\nCách đọc 2: mở miệng chữ A đọc chữ E",
+    "notes": [
+      { "note1": "Cách 1: apple, after, hat", "isRead": true },
+      { "note2": "Cách 2: man, has", "isRead": true },
+      { "note3": "A man has a plan", "isRead": true },
+      { "note4": "He can't can a can", "isRead": true }
+    ],
+    "audio": "https://st.ielts-fighter.com/src/ielts-fighter/2019/09/09/ae.mp3"
+  },
+  {
+    "front": " /ʌ/",
+    "back": "Ơ ngắn",
+    "notes": [
+      { "note1": "love, cup, money", "isRead": true }
+    ],
+    "audio": "https://st.ielts-fighter.com/src/ielts-fighter/2019/09/09/a%20ng%E1%BA%AFn.mp3"
+  },
+  {
+    "front": "/ɑ:/",
+    "back": "OA chữ a nhẹ cuối",
+    "notes": [
+      { "note1": "heart, car, far, often", "isRead": true }
+    ],
+    "audio": "https://st.ielts-fighter.com/src/ielts-fighter/2019/09/09/a%20d%C3%A0i.mp3"
+  },
+  {
+    "front": "/e/",
+    "back": "E ngắn, đọc y chang tiếng Việt ",
+    "notes": [
+      { "note1": "bed, head, many, scary", "isRead": true }
+    ],
+    "audio": "https://st.ielts-fighter.com/src/ielts-fighter/2019/09/09/e.mp3"
+  }
+]

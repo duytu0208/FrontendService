@@ -6,6 +6,7 @@
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    /*max-width: 1500px*/
 }
 
 .component1 {
@@ -25,12 +26,20 @@
     background-color: #f9f9f9;
 }
 
-.note {
-    padding: 5px;
-    border-radius: 3px;
-    /*background-color: #f1f1f1;*/
-    font-size: 1.2rem; /* Kích thước chữ cho mặt trước */
+/*.note {*/
+/*    padding: 5px;*/
+/*    border-radius: 3px;*/
+/*    !*background-color: #f1f1f1;*!*/
+/*    font-size: 1.2rem; !* Kích thước chữ cho mặt trước *!*/
+/*}*/
+
+.note-content {
+    display: flex;          /* Sử dụng Flexbox */
+    align-items: center;    /* Căn giữa theo chiều dọc */
+    gap: 10px;              /* Khoảng cách giữa button và văn bản */
+    font-size: 1.1rem;
 }
+
 
 .btn-speech-note, .btn-speech {
     background-color: #007bff;
@@ -46,11 +55,12 @@
 }
 
 .component1-content {
-    font-size: 0.75rem; /* Kích thước chữ giảm cho nội dung nhỏ hơn */
+    font-size: 1rem; /* Kích thước chữ giảm cho nội dung nhỏ hơn */
     text-align: left; /* Mặc định căn trái */
     overflow: hidden; /* Ẩn nội dung vượt quá kích thước */
-    white-space: nowrap; /* Ngăn chặn dòng chữ bị xuống dòng */
+    /*white-space: nowrap; !* Ngăn chặn dòng chữ bị xuống dòng *!*/
     text-overflow: ellipsis; /* Thêm dấu ba chấm nếu văn bản quá dài */
+    white-space: pre-wrap
 }
 
 .front-content {
@@ -59,8 +69,10 @@
 }
 
 .back-content {
-    font-size: 1rem; /* Kích thước chữ cho mặt sau */
-    text-align: left; /* Căn trái cho mặt sau */
+    font-size: 1.3rem; /* Kích thước chữ cho mặt sau */
+    /*text-align: left; !* Căn trái cho mặt sau *!*/
+    text-align: center;
+    /*display: flex;*/
 }
 
 .component1-buttons {
