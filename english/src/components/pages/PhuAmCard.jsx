@@ -1,12 +1,12 @@
 import React, {useEffect, useState} from 'react';
 import ListComponent from "../card/ListComponent"; // Import CardComponent_bk nếu bạn đã tạo
 
-function Card() {
+function NguyenAmCard() {
   const [data, setData] = useState([]);
 
   useEffect(() => {
     // Đọc file JSON từ thư mục public
-    fetch('/data.json')
+    fetch('/phuAmData.json')
         .then((response) => response.json())
         .then((jsonData) => setData(jsonData))
         .catch((error) => console.error('Error fetching data:', error));
@@ -21,11 +21,11 @@ function Card() {
     <div>
       <h1>Card Page</h1>
 
-      <h1 style={{ textAlign: 'center' }}>Nguyên âm đơn - Monothongs</h1>
+      <h1 style={{ textAlign: 'center' }}>Phụ âm</h1>
       <ListComponent data={data} />
 
     </div>
   );
 }
 
-export default Card;
+export default NguyenAmCard;

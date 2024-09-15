@@ -9,16 +9,21 @@ const Sidebar = () => {
     <div className="sidebar">
       <h1>My App</h1>
       <ul>
-      <li>
-          <Link to="/card" className={location.pathname === '/card' ? 'active' : ''}>
-            <span className="icon">🃏</span> Card
+        <li>
+          <Link to="/nguyen-am-card" className={location.pathname === '/nguyen-am-card' ? 'active' : ''}>
+            <span className="icon">🃏</span> Nguyen Am
+          </Link>
+        </li>
+        <li>
+          <Link to="/phu-am-card" className={location.pathname === '/phu-am-card' ? 'active' : ''}>
+              <span className="icon">🃏</span> Phu Am
           </Link>
         </li>
         <li>
           <Link to="/chat" className={location.pathname === '/chat' ? 'active' : ''}>
               <span className="icon">🗨️</span> Chat
           </Link>
-      </li>
+        </li>
       </ul>
     </div>
   );
