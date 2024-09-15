@@ -1,21 +1,26 @@
-import React from 'react';
-import CardComponent from '../card/CardComponent'; // Import CardComponent nếu bạn đã tạo
+import React, {useEffect, useState} from 'react';
+import ListComponent from "../card/ListComponent"; // Import CardComponent_bk nếu bạn đã tạo
 
 function Card() {
-  // Dữ liệu mẫu cho CardComponent
-  const data = {
-    front: 'Front Content',
-    back: 'Back Content',
-    notes: [
-      { note1: 'Note 1', isRead: true },
-      { note2: 'Note 2', isRead: false }
-    ]
-  };
+  const [data, setData] = useState([]);
+
+  useEffect(() => {
+    // Đọc file JSON từ thư mục public
+    fetch('/data.json')
+        .then((response) => response.json())
+        .then((jsonData) => setData(jsonData))
+        .catch((error) => console.error('Error fetching data:', error));
+  }, []);
+
+  // Kiểm tra nếu data chưa được tải
+  if (data.length === 0) {
+    return <div>Loading...</div>;
+  }
 
   return (
     <div>
       <h1>Card Page</h1>
-      <CardComponent data={data} />
+      <ListComponent data={data} />
     </div>
   );
 }

@@ -16,9 +16,9 @@ const Sidebar = () => {
         </li>
         <li>
           <Link to="/chat" className={location.pathname === '/chat' ? 'active' : ''}>
-            <span className="icon">🗨️</span> Chat
+              <span className="icon">🗨️</span> Chat
           </Link>
-        </li>
+      </li>
       </ul>
     </div>
   );

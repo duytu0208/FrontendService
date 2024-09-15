@@ -1,0 +1,76 @@
+.card{
+    border: 2px solid #ccc; /* Border cho toàn bộ card */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+}
+
+/*.card-detail {*/
+/*    width: 100%; !* Đảm bảo thẻ chiếm toàn bộ chiều rộng của cột *!*/
+/*    max-width: 200px; !* Đặt kích thước tối đa cho mỗi thẻ *!*/
+/*    padding: 20px;*/
+/*    border: 2px solid #ccc; !* Border cho toàn bộ card *!*/
+/*    border-radius: 5px;*/
+/*    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);*/
+/*    background-color: #fff;*/
+/*    display: flex;*/
+/*    flex-direction: column;*/
+/*    justify-content: space-between;*/
+/*}*/
+
+/* Thêm border cho component1 và component2 */
+.component1, .component2 {
+    /*border: 1px solid #ccc; !* Border cho component1 và component2 *!*/
+    border-radius: 4px;
+    padding: 10px;
+    margin-bottom: 10px; /* Khoảng cách giữa các component */
+    /*background-color: #f9f9f9; !* Màu nền nhẹ cho các component *!*/
+}
+
+.card-detail-content {
+    margin-bottom: 15px;
+}
+
+.card-detail-header {
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.card-detail-notes {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.note {
+    padding: 5px;
+    /*border: 1px dashed #999; !* Border cho mỗi note *!*/
+    border-radius: 3px;
+    /*background-color: #f1f1f1;*/
+}
+
+.btn-speech-note, .btn-speech {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 5px;
+    cursor: pointer;
+}
+
+.btn-speech-note:hover, .btn-speech:hover {
+    background-color: #0056b3;
+}
+
+.card-detail-flip-button {
+    margin-top: 10px;
+    padding: 5px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.card-detail-flip-button:hover {
+    background-color: #218838;
+}

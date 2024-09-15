@@ -1,0 +1,30 @@
+.list-container {
+    display: flex;
+    flex-direction: column;
+    /*align-items: center;*/
+    padding: 20px;
+    margin-left: 300px;
+}
+
+.btn-reset {
+    margin-bottom: 20px;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 20%
+}
+
+.btn-reset:hover {
+    background-color: #0056b3;
+}
+
+.card-container {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr); /* Tạo 6 cột */
+    gap: 20px; /* Khoảng cách giữa các thẻ */
+    /*width: 200%; !* Đảm bảo chiếm toàn bộ chiều rộng container *!*/
+    /*max-width: 1000px; !* Tùy chỉnh chiều rộng tối đa cho grid *!*/
+}
