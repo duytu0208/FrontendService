@@ -1,51 +1,35 @@
-.card{
-    border: 2px solid #ccc; /* Border cho toàn bộ card */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+.card {
+    border: 2px solid #ddd;
     border-radius: 5px;
-}
-
-/*.card-detail {*/
-/*    width: 100%; !* Đảm bảo thẻ chiếm toàn bộ chiều rộng của cột *!*/
-/*    max-width: 200px; !* Đặt kích thước tối đa cho mỗi thẻ *!*/
-/*    padding: 20px;*/
-/*    border: 2px solid #ccc; !* Border cho toàn bộ card *!*/
-/*    border-radius: 5px;*/
-/*    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);*/
-/*    background-color: #fff;*/
-/*    display: flex;*/
-/*    flex-direction: column;*/
-/*    justify-content: space-between;*/
-/*}*/
-
-/* Thêm border cho component1 và component2 */
-.component1, .component2 {
-    /*border: 1px solid #ccc; !* Border cho component1 và component2 *!*/
-    border-radius: 4px;
-    padding: 10px;
-    margin-bottom: 10px; /* Khoảng cách giữa các component */
-    /*background-color: #f9f9f9; !* Màu nền nhẹ cho các component *!*/
-}
-
-.card-detail-content {
-    margin-bottom: 15px;
-}
-
-.card-detail-header {
-    font-weight: bold;
-    margin-bottom: 10px;
-}
-
-.card-detail-notes {
+    padding: 20px;
+    background-color: #fff;
     display: flex;
     flex-direction: column;
-    gap: 10px;
+    justify-content: space-between;
+}
+
+.component1 {
+    margin-top: 20px;
+    cursor: pointer;
+    width: 100%; /* Kích thước cố định */
+    height: 100px; /* Kích thước cố định */
+    border-radius: 4px;
+    position: relative; /* Đặt relative để căn chỉnh tuyệt đối các nút bên trong */
+    overflow: hidden; /* Ẩn nội dung vượt quá kích thước */
+}
+
+.component2 {
+    border-radius: 4px;
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: #f9f9f9;
 }
 
 .note {
     padding: 5px;
-    /*border: 1px dashed #999; !* Border cho mỗi note *!*/
     border-radius: 3px;
     /*background-color: #f1f1f1;*/
+    font-size: 1.2rem; /* Kích thước chữ cho mặt trước */
 }
 
 .btn-speech-note, .btn-speech {
@@ -61,16 +45,28 @@
     background-color: #0056b3;
 }
 
-.card-detail-flip-button {
-    margin-top: 10px;
-    padding: 5px;
-    background-color: #28a745;
-    color: white;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
+.component1-content {
+    font-size: 0.75rem; /* Kích thước chữ giảm cho nội dung nhỏ hơn */
+    text-align: left; /* Mặc định căn trái */
+    overflow: hidden; /* Ẩn nội dung vượt quá kích thước */
+    white-space: nowrap; /* Ngăn chặn dòng chữ bị xuống dòng */
+    text-overflow: ellipsis; /* Thêm dấu ba chấm nếu văn bản quá dài */
 }
 
-.card-detail-flip-button:hover {
-    background-color: #218838;
+.front-content {
+    font-size: 2.5rem; /* Kích thước chữ cho mặt trước */
+    text-align: center; /* Căn giữa cho mặt trước */
+}
+
+.back-content {
+    font-size: 1rem; /* Kích thước chữ cho mặt sau */
+    text-align: left; /* Căn trái cho mặt sau */
+}
+
+.component1-buttons {
+    position: absolute; /* Đặt tuyệt đối để căn chỉnh vị trí của các nút */
+    bottom: 10px; /* Căn cách đáy của component1 */
+    right: 10px; /* Căn cách bên phải của component1 */
+    display: flex;
+    gap: 10px; /* Khoảng cách giữa các nút */
 }

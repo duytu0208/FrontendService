@@ -14,7 +14,7 @@
     border: none;
     border-radius: 5px;
     cursor: pointer;
-    width: 20%
+    width: 12%
 }
 
 .btn-reset:hover {
@@ -23,8 +23,8 @@
 
 .card-container {
     display: grid;
-    grid-template-columns: repeat(5, 1fr); /* Tạo 6 cột */
+    grid-template-columns: repeat(3, 1fr); /* Tạo 6 cột */
     gap: 20px; /* Khoảng cách giữa các thẻ */
-    /*width: 200%; !* Đảm bảo chiếm toàn bộ chiều rộng container *!*/
-    /*max-width: 1000px; !* Tùy chỉnh chiều rộng tối đa cho grid *!*/
+    width: 90%; /* Đảm bảo chiếm toàn bộ chiều rộng container */
+    /*max-width: 100px; !* Tùy chỉnh chiều rộng tối đa cho grid *!*/
 }

@@ -20,7 +20,10 @@ function Card() {
   return (
     <div>
       <h1>Card Page</h1>
+
+      <h1 style={{ textAlign: 'center' }}>Nguyên âm đơn - Monothongs</h1>
       <ListComponent data={data} />
+
     </div>
   );
 }

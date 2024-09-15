@@ -19,7 +19,7 @@ function CardDetail({ cardData, showFront, onToggle }) {
                     const noteKey = Object.keys(note)[0];
                     return (
                         <div key={index} className="note">
-                            <p>{note[noteKey]}</p>
+
                             {note.isRead && (
                                 <button
                                     className="btn-speech-note"
@@ -29,31 +29,36 @@ function CardDetail({ cardData, showFront, onToggle }) {
                                     <FontAwesomeIcon icon={faVolumeUp} />
                                 </button>
                             )}
+                            <p>{note[noteKey]}</p>
+                            <hr width="90%" align="center" />
                         </div>
                     );
                 })}
             </div>
-            <hr  width="90%" align="center" />
             <div
-                className="component1"
+                className={`component1 ${showFront ? 'front' : 'back'}`} // Áp dụng class tùy thuộc vào showFront
                 onClick={onToggle} // Chỉ đổi mặt trước/sau khi nhấn vào component1
             >
-                <div className="component1-content">
-                    <p>{currentContent}</p>
+                <div className={`component1-content ${showFront ? 'front-content' : 'back-content'}`}>
+                    {currentContent}
                 </div>
-                <div className="component1-buttons">
-                    <button
-                        className="btn-speech"
-                        onClick={(e) => {
-                            e.stopPropagation(); // Ngăn chặn sự kiện click từ việc thay đổi mặt trước/sau
-                            handleSpeech(currentContent);
-                        }}
-                        aria-label="Read Aloud"
-                    >
-                        <FontAwesomeIcon icon={faVolumeUp} />
-                    </button>
-                </div>
+                {/*<div className="component1-buttons">*/}
+                {/*    <button*/}
+                {/*        className="btn-speech"*/}
+                {/*        onClick={(e) => {*/}
+                {/*            e.stopPropagation(); // Ngăn chặn sự kiện click từ việc thay đổi mặt trước/sau*/}
+                {/*            handleSpeech(currentContent);*/}
+                {/*        }}*/}
+                {/*        aria-label="Read Aloud"*/}
+                {/*    >*/}
+                {/*        <FontAwesomeIcon icon={faVolumeUp} />*/}
+                {/*    </button>*/}
+                {/*</div>*/}
             </div>
+
+            <audio controls="controls">
+                <source src={cardData.audio} type="audio/mpeg"/>
+            </audio>
         </div>
     );
 }

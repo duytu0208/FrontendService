@@ -1,74 +1,162 @@
 [
   {
-    "front": "Hello, this is the front side.",
-    "back": "This is the back side of the card.",
+    "front": "/i:/",
+    "back": "I dài, Thanh ngang, đọc dài ra xíu",
     "notes": [
-      { "note1": "Note 1 content.", "isRead": true },
-      { "note2": "Note 2 content." }
-    ]
+      { "note1": "see, free, green, sweet, feet, beach, teacher", "isRead": true }
+    ],
+    "audio": "https://st.ielts-fighter.com/src/ielts-fighter/2019/09/09/i%20d%C3%A0i.mp3"
   },
   {
-    "front": "Hello, this is the front side.",
-    "back": "This is the back side of the card.",
+    "front": "/ɪ/",
+    "back": "I ngắn, đọc hơi có âm sắc trong đó xíu",
     "notes": [
-      { "note1": "Note 1 content.", "isRead": true },
-      { "note2": "Note 2 content." }
-    ]
+      { "note1": "sit, fit, bitch", "isRead": true }
+    ],
+    "audio": "https://st.ielts-fighter.com/src/ielts-fighter/2019/09/09/i%20ng%E1%BA%AFn.mp3"
   },
   {
-    "front": "Hello, this is the front side.",
-    "back": "This is the back side of the card.",
+    "front": "/e/",
+    "back": "",
     "notes": [
-      { "note1": "Note 1 content.", "isRead": true },
-      { "note2": "Note 2 content." }
-    ]
+      { "note1": "", "isRead": true }
+    ],
+    "audio": "https://st.ielts-fighter.com/src/ielts-fighter/2019/09/09/e.mp3"
   },
   {
-    "front": "Hello, this is the front side.",
-    "back": "This is the back side of the card.",
+    "front": "/ə/",
+    "back": "",
     "notes": [
-      { "note1": "Note 1 content.", "isRead": true },
-      { "note2": "Note 2 content." }
-    ]
+      { "note1": "", "isRead": true }
+    ],
+    "audio": "https://st.ielts-fighter.com/src/ielts-fighter/2019/09/09/%C6%A1%20ng%E1%BA%AFn.mp3"
   },
   {
-    "front": "Hello, this is the front side.",
-    "back": "This is the back side of the card.",
+    "front": "/ɜ:/",
+    "back": "",
     "notes": [
-      { "note1": "Note 1 content.", "isRead": true },
-      { "note2": "Note 2 content." }
-    ]
+      { "note1": "", "isRead": true }
+    ],
+    "audio": "https://st.ielts-fighter.com/src/ielts-fighter/2019/09/09/%C6%A1%20d%C3%A0i.mp3"
   },
   {
-    "front": "Hello, this is the front side.",
-    "back": "This is the back side of the card.",
+    "front": " /ʊ/",
+    "back": "",
     "notes": [
-      { "note1": "Note 1 content.", "isRead": true },
-      { "note2": "Note 2 content." }
-    ]
+      { "note1": "", "isRead": true }
+    ],
+    "audio": "https://st.ielts-fighter.com/src/ielts-fighter/2019/09/09/u%20ng%E1%BA%AFn.mp3"
   },
   {
-    "front": "Hello, this is the front side.",
-    "back": "This is the back side of the card.",
+    "front": " /u:/",
+    "back": "",
     "notes": [
-      { "note1": "Note 1 content.", "isRead": true },
-      { "note2": "Note 2 content." }
-    ]
+      { "note1": "", "isRead": true }
+    ],
+    "audio": "https://st.ielts-fighter.com/src/ielts-fighter/2019/09/09/u%20d%C3%A0i.mp3"
   },
   {
-    "front": "Hello, this is the front side.",
-    "back": "This is the back side of the card.",
+    "front": " /ɒ/",
+    "back": "",
     "notes": [
-      { "note1": "Note 1 content.", "isRead": true },
-      { "note2": "Note 2 content." }
-    ]
+      { "note1": "", "isRead": true }
+    ],
+    "audio": "https://st.ielts-fighter.com/src/ielts-fighter/2019/09/09/o%20ng%E1%BA%AFn.mp3"
   },
   {
-    "front": "Hello, this is the front side.",
-    "back": "This is the back side of the card.",
+    "front": " /ɔ:/",
+    "back": "",
     "notes": [
-      { "note1": "Note 1 content.", "isRead": true },
-      { "note2": "Note 2 content." }
-    ]
+      { "note1": "", "isRead": true }
+    ],
+    "audio": "https://st.ielts-fighter.com/src/ielts-fighter/2019/09/09/o%20d%C3%A0i.mp3"
+  },
+  {
+    "front": " /ʌ/",
+    "back": "",
+    "notes": [
+      { "note1": "", "isRead": true }
+    ],
+    "audio": "https://st.ielts-fighter.com/src/ielts-fighter/2019/09/09/a%20ng%E1%BA%AFn.mp3"
+  },
+  {
+    "front": "/ɑ:/",
+    "back": "",
+    "notes": [
+      { "note1": "", "isRead": true }
+    ],
+    "audio": "https://st.ielts-fighter.com/src/ielts-fighter/2019/09/09/a%20d%C3%A0i.mp3"
+  },
+  {
+    "front": " /æ/",
+    "back": "",
+    "notes": [
+      { "note1": "", "isRead": true }
+    ],
+    "audio": "https://st.ielts-fighter.com/src/ielts-fighter/2019/09/09/ae.mp3"
+  },
+  {
+    "front": " /ɪə/",
+    "back": "",
+    "notes": [
+      { "note1": "", "isRead": true }
+    ],
+    "audio": "https://st.ielts-fighter.com/src/ielts-fighter/2019/09/09/ie.mp3"
+  },
+  {
+    "front": " /eə/",
+    "back": "",
+    "notes": [
+      { "note1": "", "isRead": true }
+    ],
+    "audio": "https://st.ielts-fighter.com/src/ielts-fighter/2019/09/09/ea.mp3"
+  },
+  {
+    "front": "/eɪ/",
+    "back": "",
+    "notes": [
+      { "note1": "", "isRead": true }
+    ],
+    "audio": "https://st.ielts-fighter.com/src/ielts-fighter/2019/09/09/ei.mp3"
+  },
+  {
+    "front": " /ɔɪ/ ",
+    "back": "",
+    "notes": [
+      { "note1": "", "isRead": true }
+    ],
+    "audio": "https://st.ielts-fighter.com/src/ielts-fighter/2019/09/09/oi.mp3"
+  },
+  {
+    "front": " /aɪ/",
+    "back": "",
+    "notes": [
+      { "note1": "", "isRead": true }
+    ],
+    "audio": "https://st.ielts-fighter.com/src/ielts-fighter/2019/09/09/a%C9%AA.mp3"
+  },
+  {
+    "front": "/əʊ/",
+    "back": "",
+    "notes": [
+      { "note1": "", "isRead": true }
+    ],
+    "audio": "https://st.ielts-fighter.com/src/ielts-fighter/2019/09/09/%C9%99%CA%8A.mp3"
+  },
+  {
+    "front": " /aʊ/",
+    "back": "",
+    "notes": [
+      { "note1": "", "isRead": true }
+    ],
+    "audio": "https://st.ielts-fighter.com/src/ielts-fighter/2019/09/09/a%CA%8A.mp3"
+  },
+  {
+    "front": " /ʊə/",
+    "back": "",
+    "notes": [
+      { "note1": "", "isRead": true }
+    ],
+    "audio": "https://st.ielts-fighter.com/src/ielts-fighter/2019/09/09/%CA%8A%C9%99.mp3"
   }
 ]
