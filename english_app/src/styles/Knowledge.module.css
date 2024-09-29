@@ -1,0 +1,19 @@
+/* styles/Knowledge.module.css */
+
+.topicList {
+    list-style-type: none;
+    padding: 0;
+}
+
+.topicList li {
+    margin: 1rem 0;
+}
+
+.topicList li a {
+    text-decoration: none;
+    color: #0070f3;
+}
+
+.topicList li a:hover {
+    text-decoration: underline;
+}

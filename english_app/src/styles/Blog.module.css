@@ -1,0 +1,27 @@
+.blogContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 2rem;
+}
+
+.blogHeading {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+    color: #003366;
+}
+
+.blogPost {
+    margin-bottom: 1.5rem;
+}
+
+.blogTitle {
+    font-size: 1.5rem;
+    color: #004488;
+    margin-bottom: 0.5rem;
+}
+
+.blogExcerpt {
+    font-size: 1.2rem;
+    color: #666;
+}

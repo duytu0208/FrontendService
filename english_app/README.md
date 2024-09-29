@@ -1,3 +1,30 @@
+my-personal-site/
+├── public/                     # Chứa tài nguyên tĩnh
+│   └── images/                 # Hình ảnh cho các trang
+├── src/
+│   ├── components/             # Chứa các component dùng chung
+│   │   ├── Layout.tsx          # Component layout chung
+│   │   ├── Navbar.tsx          # Thanh điều hướng
+│   ├── pages/                  # Các trang của ứng dụng
+│   │   ├── about.tsx           # Trang giới thiệu bản thân
+│   │   ├── blog.tsx            # Trang blog
+│   │   └── knowledge/          # Thư mục cho các topic chia sẻ kiến thức
+│   │       ├── index.tsx       # Trang chính của chia sẻ kiến thức
+│   │       ├── [topic].tsx     # Trang chi tiết cho từng topic
+│   ├── styles/                 # Chứa file CSS module
+│   │   ├── globals.css         # CSS chung cho toàn bộ app
+│   │   ├── Layout.module.css   # CSS cho Layout component
+│   │   ├── Navbar.module.css   # CSS cho Navbar
+│   ├── utils/                  # Chứa các hàm utility (nếu có)
+│   └── hooks/                  # Custom React hooks (nếu cần)
+├── .eslintrc.js                # Cấu hình ESLint
+├── .prettierrc                 # Cấu hình Prettier
+├── tsconfig.json               # Cấu hình TypeScript
+├── next.config.js              # Cấu hình Next.js
+└── package.json
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
