@@ -1,0 +1,51 @@
+[
+  {
+    "id": "B_longVowelWord",
+    "title": "Vowel Word(Nguyên Âm Dài)",
+    "url": "",
+    "description": "a_e_i_o_u",
+    "isPlaying": false,
+    "children": [
+      {
+        "id": "longA",
+        "title": "long A",
+        "url": "https://drive.google.com/file/d/1PekZutc_0b5NZCILur4YtnR3rbK6GY-A/view?usp=sharing",
+        "description": "Đọc AY",
+        "isPlaying": false,
+        "children": []
+      },
+      {
+        "id": "longE",
+        "title": "long E",
+        "url": "https://drive.google.com/file/d/1Utu910Qeg7V6tM15R1sNra_sBz-rIRPS/view?usp=sharing",
+        "description": "",
+        "isPlaying": false,
+        "children": []
+      },
+      {
+        "id": "longI",
+        "title": "long I",
+        "url": "https://drive.google.com/file/d/1PIuniq79S6qpATpo-cx_xj4ijRssq1M6/view?usp=sharing",
+        "description": "",
+        "isPlaying": false,
+        "children": []
+      },
+      {
+        "id": "longO",
+        "title": "long O",
+        "url": "https://drive.google.com/file/d/1BHjKVYNUeEL5FtolWkUJe736B6hoUtvs/view?usp=sharing",
+        "description": "",
+        "isPlaying": false,
+        "children": []
+      },
+      {
+        "id": "longU",
+        "title": "long U",
+        "url": "https://drive.google.com/file/d/1I3p_Z0sdBQ2gZcIJGt1fJ9saW-cKWxaD/view?usp=sharing",
+        "description": "",
+        "isPlaying": false,
+        "children": []
+      }
+    ]
+  }
+]

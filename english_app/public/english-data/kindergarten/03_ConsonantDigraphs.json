@@ -1,0 +1,27 @@
+[
+  {
+    "id": "D_ConsonantDigraphs",
+    "title": "Consonant Digraphs (Chữ ghép phụ âm)",
+    "url": "",
+    "description": "",
+    "isPlaying": false,
+    "children": [
+      {
+        "id": "D_01",
+        "title": "ch_th_sh",
+        "url": "https://drive.google.com/file/d/1eRovryYLDxPqWbQNR73JxrYCkiCXSC3e/view?usp=sharing",
+        "description": "",
+        "isPlaying": false,
+        "children": []
+      },
+      {
+        "id": "D_02",
+        "title": "-ss_-ll_-ff_-zz_-ck.",
+        "url": "https://drive.google.com/file/d/1FA-EOK2GkRDop9GCsgloK4hMHC476Vv4/view?usp=sharing",
+        "description": "",
+        "isPlaying": false,
+        "children": []
+      }
+    ]
+  }
+]
