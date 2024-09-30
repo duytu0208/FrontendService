@@ -1,0 +1,51 @@
+[
+  {
+    "id": "A_shortVowelWord",
+    "title": "short Vowel Word(Nguyên Âm Ngắn)",
+    "url": "",
+    "description": "a_e_i_o_u",
+    "isPlaying": false,
+    "children": [
+      {
+        "id": "shortA",
+        "title": "short A",
+        "url": "https://drive.google.com/file/d/1GLqZ_XVdor7LQwzzpWc-dp_p6csvEJ2h/view?usp=sharing&t=1",
+        "description": "Đọc giống âm A tiếng việt",
+        "isPlaying": false,
+        "children": []
+      },
+      {
+        "id": "shortE",
+        "title": "short E",
+        "url": "https://drive.google.com/file/d/1OW2ioMil29NoJcQ1EpANv5TJoPV32zEK/view?usp=sharing",
+        "description": "Đọc giống âm E tiếng việt",
+        "isPlaying": false,
+        "children": []
+      },
+      {
+        "id": "shortI",
+        "title": "short I",
+        "url": "https://drive.google.com/file/d/1qDhqp1MQQbZvIOKApAglnPvPZYivOin0/view?usp=sharing",
+        "description": "Đọc giống âm I tiếng việt nhưng lái qua âm Ê",
+        "isPlaying": false,
+        "children": []
+      },
+      {
+        "id": "shortO",
+        "title": "short O",
+        "url": "https://drive.google.com/file/d/1vRHsnml9DV1Wzw_u1jOlmORzvCnkuyO0/view?usp=sharing",
+        "description": "Đọc giống âm O tiếng việt",
+        "isPlaying": false,
+        "children": []
+      },
+      {
+        "id": "shortU",
+        "title": "short U",
+        "url": "https://drive.google.com/file/d/1yrCX2DM9TMhRVA3KpTAO5WrGMbzmz-qV/view?usp=sharing",
+        "description": "Ơ mạnh, giơ 2 tay lên => Ơ",
+        "isPlaying": false,
+        "children": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "id": "C_BaiTap",
+    "title": "Bai tap Vowel Word",
+    "url": "",
+    "description": "a_e_i_o_u",
+    "isPlaying": false,
+    "children": [
+      {
+        "id": "BaiTap01",
+        "title": "Bai Tap 01",
+        "url": "https://drive.google.com/file/d/1k_hFkSTHwEqGnaU6tUFlKlqaxmyGPKOc/view?usp=sharing",
+        "description": "",
+        "isPlaying": false,
+        "children": []
+      },
+      {
+        "id": "BaiTap02",
+        "title": "Bai Tap 02",
+        "url": "https://drive.google.com/file/d/1RCMCh4fi6nVlTK4dLx_5RCJABn_AnNUa/view?usp=sharing",
+        "description": "",
+        "isPlaying": false,
+        "children": []
+      }
+    ]
+  }
+]
