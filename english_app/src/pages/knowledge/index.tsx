@@ -4,19 +4,20 @@ import Layout from '../../components/Layout';
 import Sidebar from '../../components/Sidebar';
 import Kindergarten from '../../components/topics/Kindergarten'; // Import component để hiển thị flash cards
 
-const topics = [
+type Topic = {
+    id: string;
+    title: string;
+    subtopics: {
+        id: string;
+        title: string;
+    }[];
+};
+
+const topics: Topic[] = [
     {
         id: 'kindergarten',
         title: 'Kindergarten',
-        // subtopics: [
-        //     {
-        //         id: '01_1',
-        //         title: 'Nguyên Âm',
-        //         subtopics: [
-        //             { id: 'css-selectors', title: 'CSS Selectors'}
-        //         ]
-        //     }
-        // ]
+        subtopics: []
     }
 ];
 
