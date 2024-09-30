@@ -1,12 +1,17 @@
-// components/Layout.tsx
-import NavBar from './NavBar';
+// src/components/Layout.tsx
+import React from 'react';
+import Navbar from './Navbar';
 import styles from '../styles/Layout.module.css';
 
-const Layout = ({ children }) => {
+type LayoutProps = {
+    children: React.ReactNode; // Khai báo kiểu cho children
+};
+
+const Layout: React.FC<LayoutProps> = ({ children }) => {
     return (
-        <div>
-            <NavBar />
-            <main className={styles.layout}>{children}</main>
+        <div className={styles.layout}>
+            <Navbar />
+            {children}
         </div>
     );
 };

@@ -1,8 +1,8 @@
 // components/NavBar.tsx
 import Link from 'next/link';
-import styles from '../styles/NavBar.module.css'; // CSS cho nav
+import styles from '../styles/Navbar.module.css'; // CSS cho nav
 
-const NavBar = () => {
+const Navbar = () => {
     return (
         <nav className={styles.nav}>
             <ul>
@@ -23,4 +23,4 @@ const NavBar = () => {
     );
 };
 
-export default NavBar;
+export default Navbar;
