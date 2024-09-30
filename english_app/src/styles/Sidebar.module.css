@@ -1,53 +1,43 @@
+/* src/styles/Sidebar.module.css */
+
 .sidebar {
-    width: 300px;
-    background-color: #f0f2f5;
-    padding: 1rem;
+    width: 250px;
+    background-color: #f4f4f4;
+    padding: 10px;
+    border-right: 1px solid #ccc;
+    height: 100vh; /* Chiều cao 100% của viewport */
+    overflow-y: auto; /* Thêm thanh cuộn nếu cần */
 }
 
-.sidebar h3 {
+.sidebar h2 {
+    margin: 0;
+    padding: 10px 0;
+    text-align: center;
     font-size: 1.5rem;
-    margin-bottom: 1rem;
+}
+
+.topic, .subtopic {
+    padding: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.topic:hover, .subtopic:hover {
+    background-color: #e1e1e1; /* Màu nền khi hover */
+}
+
+.selected {
+    background-color: #d1d1d1; /* Màu nền cho topic đã chọn */
+    font-weight: bold; /* Bôi đậm cho topic đã chọn */
 }
 
 .sidebar ul {
-    list-style-type: none;
-    padding-left: 0;
+    list-style: none; /* Bỏ dấu chấm */
+    padding: 0;
+    margin: 0;
+    margin-left: 20px; /* Thụt vào bên trái */
 }
 
-.sidebar ul li {
-    margin-bottom: 1rem;
-}
-
-.topicItem {
-    display: flex;
-    align-items: center;
-    cursor: pointer;
-}
-
-.topicItem:hover {
-    color: #1877f2;
-}
-
-.icon {
-    margin-right: 0.5rem;
-    font-size: 1rem;
-}
-
-.subtopics {
-    padding-right: 1rem;
-    margin-top: 1rem;
-}
-
-.subtopics li {
-    margin-bottom: 1rem;
-}
-
-.subtopics li a {
-    text-decoration: none;
-    color: #333;
-}
-
-.subtopics li a:hover {
-    text-decoration: underline;
-    color: #1877f2;
+.sidebar ul ul {
+    margin-left: 20px; /* Thụt vào thêm cho subtopics */
 }
