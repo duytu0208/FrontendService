@@ -1,0 +1,40 @@
+/* src/styles/VideoTree.module.css */
+
+.videoTree {
+    list-style: none;
+    padding: 0;
+}
+
+.videoTree li {
+    margin: 5px 0;
+}
+
+.videoTree button {
+    background-color: #f4f4f4;
+    color: #333;
+    border: 1px solid #ccc;
+    padding: 8px 12px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: color 0.3s; /* Hiệu ứng khi hover */
+}
+
+.videoTree button:hover {
+    background-color: #e1e1e1; /* Màu nền khi hover */
+}
+
+.videoTree .children {
+    padding-left: 20px; /* Thụt vào cho video con */
+    border-left: 2px dashed #ccc;
+    margin-left: 10px;
+}
+
+.highlighted button {
+    color: #d9534f; /* Đổi màu chữ cho video đang xem */
+    font-weight: bold; /* Bôi đậm cho video đang xem */
+}
+
+.selectedButton {
+    color: #d9534f; /* Đổi màu chữ cho video đang được nhấn */
+    font-weight: bold; /* Bôi đậm cho video đang nhấn */
+}

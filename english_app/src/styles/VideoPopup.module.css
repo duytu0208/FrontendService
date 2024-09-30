@@ -1,0 +1,39 @@
+/* src/styles/VideoPopup.module.css */
+.overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.7);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+}
+
+.popup {
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    max-width: 90%; /* Chiều rộng tối đa của popup */
+    width: 35%; /* Chiều rộng chiếm 90% viewport */
+    height: 50%; /* Chiều cao chiếm 80% viewport */
+    display: flex;
+    flex-direction: column; /* Cho phép điều chỉnh nội dung bên trong */
+}
+
+.close {
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    font-size: 18px;
+    float: right;
+}
+
+.videoFrame {
+    flex: 1; /* Làm cho video chiếm toàn bộ không gian còn lại */
+    width: 100%; /* Đảm bảo video chiếm 100% chiều rộng */
+    height: 100%; /* Đảm bảo video chiếm 100% chiều cao */
+    object-fit: cover; /* Để video được phóng to mà không bị biến dạng */
+}

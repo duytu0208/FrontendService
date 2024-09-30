@@ -1,0 +1,43 @@
+/* src/styles/Sidebar.module.css */
+
+.sidebar {
+    width: 250px;
+    background-color: #f4f4f4;
+    padding: 10px;
+    border-right: 1px solid #ccc;
+    height: 100vh; /* Chiều cao 100% của viewport */
+    overflow-y: auto; /* Thêm thanh cuộn nếu cần */
+}
+
+.sidebar h2 {
+    margin: 0;
+    padding: 10px 0;
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+.topic, .subtopic {
+    padding: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.topic:hover, .subtopic:hover {
+    background-color: #e1e1e1; /* Màu nền khi hover */
+}
+
+.selected {
+    background-color: #d1d1d1; /* Màu nền cho topic đã chọn */
+    font-weight: bold; /* Bôi đậm cho topic đã chọn */
+}
+
+.sidebar ul {
+    list-style: none; /* Bỏ dấu chấm */
+    padding: 0;
+    margin: 0;
+    margin-left: 20px; /* Thụt vào bên trái */
+}
+
+.sidebar ul ul {
+    margin-left: 20px; /* Thụt vào thêm cho subtopics */
+}

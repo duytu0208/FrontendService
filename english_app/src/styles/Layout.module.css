@@ -1,0 +1,16 @@
+.layout {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start; /* Căn trái layout */
+  margin: 2rem 5%; /* Thay px bằng % */
+}
+
+.main-content {
+  background-color: #FFFFFF;
+  padding: 5%;
+  width: 75%; /* Chiếm 75% chiều rộng */
+  border-radius: 1rem;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  text-align: left; /* Căn trái nội dung chính */
+}
