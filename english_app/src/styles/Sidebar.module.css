@@ -1,29 +1,53 @@
-/* styles/Sidebar.module.css */
 .sidebar {
-    width: 200px;
-    background-color: #f4f4f4;
+    width: 300px;
+    background-color: #f0f2f5;
     padding: 1rem;
-    border-radius: 5px;
 }
 
 .sidebar h3 {
-    margin-top: 0;
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
 }
 
 .sidebar ul {
     list-style-type: none;
-    padding: 0;
+    padding-left: 0;
 }
 
-.sidebar li {
-    margin: 0.5rem 0;
+.sidebar ul li {
+    margin-bottom: 1rem;
 }
 
-.sidebar a {
+.topicItem {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+
+.topicItem:hover {
+    color: #1877f2;
+}
+
+.icon {
+    margin-right: 0.5rem;
+    font-size: 1rem;
+}
+
+.subtopics {
+    padding-right: 1rem;
+    margin-top: 1rem;
+}
+
+.subtopics li {
+    margin-bottom: 1rem;
+}
+
+.subtopics li a {
     text-decoration: none;
     color: #333;
 }
 
-.sidebar a:hover {
+.subtopics li a:hover {
     text-decoration: underline;
+    color: #1877f2;
 }

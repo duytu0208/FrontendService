@@ -10,7 +10,7 @@ my-personal-site/
 │   │   ├── blog.tsx            # Trang blog
 │   │   └── knowledge/          # Thư mục cho các topic chia sẻ kiến thức
 │   │       ├── index.tsx       # Trang chính của chia sẻ kiến thức
-│   │       ├── [topic].tsx     # Trang chi tiết cho từng topic
+│   │       ├── [subtopic].tsx     # Trang chi tiết cho từng topic
 │   ├── styles/                 # Chứa file CSS module
 │   │   ├── globals.css         # CSS chung cho toàn bộ app
 │   │   ├── Layout.module.css   # CSS cho Layout component
