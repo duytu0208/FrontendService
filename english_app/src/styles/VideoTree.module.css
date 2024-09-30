@@ -2,11 +2,11 @@
 
 .videoTree {
     list-style: none;
-    padding: 0;
+    padding: 10px;
 }
 
 .videoTree li {
-    margin: 5px 0;
+    margin: 5px 10px;
 }
 
 .videoTree button {
