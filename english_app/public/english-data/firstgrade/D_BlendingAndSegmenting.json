@@ -1,0 +1,35 @@
+[
+  {
+    "id": "D_BlendingAndSegmenting",
+    "title": "D_BlendingAndSegmenting",
+    "url": "",
+    "description": "",
+    "isPlaying": false,
+    "children": [
+      {
+        "id": "D_BlendingAndSegmenting_No1",
+        "title": "Blend each sound in a word together.",
+        "url": "https://drive.google.com/file/d/1CWZ12OCLGcDiqCZCQjFAmPxsLWN2jeTr/view?usp=sharing",
+        "description": "",
+        "isPlaying": false,
+        "children": []
+      },
+      {
+        "id": "D_BlendingAndSegmenting_No2",
+        "title": "Identify_each_sound_in_a_word",
+        "url": "https://drive.google.com/file/d/1BQma_HnNHrCBWQ4AbvaK8c6SASOwycci/view?usp=sharing",
+        "description": "",
+        "isPlaying": false,
+        "children": []
+      },
+      {
+        "id": "D_BlendingAndSegmenting_No3",
+        "title": "Put_the_sounds_in_order",
+        "url": "https://drive.google.com/file/d/15NwBeTwCvHpCA8y7t_bpO8sR7HnWdd9d/view?usp=sharing",
+        "description": "",
+        "isPlaying": false,
+        "children": []
+      }
+    ]
+  }
+]
