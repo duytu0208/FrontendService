@@ -3,6 +3,7 @@ import { useState } from 'react';
 import Layout from '../../components/Layout';
 import Sidebar from '../../components/Sidebar';
 import Kindergarten from '../../components/topics/Kindergarten'; // Import component để hiển thị flash cards
+import Firstgrade from '../../components/topics/Firstgrade'; // Import component để hiển thị flash cards
 
 type Topic = {
     id: string;
@@ -18,6 +19,11 @@ const topics: Topic[] = [
         id: 'kindergarten',
         title: 'Kindergarten',
         subtopics: []
+    },
+    {
+        id: 'firstgrade',
+        title: 'Firstgrade',
+        subtopics: []
     }
 ];
 
@@ -31,6 +37,9 @@ const KnowledgePage = () => {
         switch (topicId) {
             case 'kindergarten':
                 component = <Kindergarten />;
+                break;
+            case 'firstgrade':
+                component = <Firstgrade />;
                 break;
             // Thêm các case cho các topic khác nếu có
             default:
