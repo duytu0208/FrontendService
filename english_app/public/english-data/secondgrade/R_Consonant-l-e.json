@@ -1,0 +1,43 @@
+[
+  {
+    "id": "R_Consonant-l-e",
+    "title": "R_Consonant-l-e",
+    "url": "",
+    "description": "",
+    "isPlaying": false,
+    "children": [
+      {
+        "id": "BaiTap01",
+        "title": "Choose The Correct Spelling Of The Consonant-l-e word",
+        "url": "https://drive.google.com/file/d/1qy9WvIy7IdvMZHBWh0YUXLQJV3h6Jgo_/view?usp=sharing",
+        "description": "",
+        "isPlaying": false,
+        "children": []
+      },
+      {
+        "id": "BaiTap02",
+        "title": "Complete The Consonant-l-e Words",
+        "url": "https://drive.google.com/file/d/1LyBEDhe6g9Vb3RsoDeE28JJkphR3plxd/view?usp=sharing",
+        "description": "",
+        "isPlaying": false,
+        "children": []
+      },
+      {
+        "id": "BaiTap03",
+        "title": "Spell the consonant-l-e word",
+        "url": "https://drive.google.com/file/d/1IHLgoGcvyqv_IkJj_zXE9aeOREddZqL0/view?usp=sharing",
+        "description": "",
+        "isPlaying": false,
+        "children": []
+      },
+      {
+        "id": "BaiTap04",
+        "title": "Q_Two-syllableWords_no4",
+        "url": "",
+        "description": "",
+        "isPlaying": false,
+        "children": []
+      }
+    ]
+  }
+]

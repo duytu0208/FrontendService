@@ -1,0 +1,43 @@
+[
+  {
+    "id": "I_VowelTeams",
+    "title": "I_VowelTeams",
+    "url": "",
+    "description": "",
+    "isPlaying": false,
+    "children": [
+      {
+        "id": "BaiTap01",
+        "title": "Choose the picture that matches the vowel team",
+        "url": "https://drive.google.com/file/d/146SaTmz7eQpCRpOt5NJrV0HZZLrUznFi/view?usp=sharing",
+        "description": "",
+        "isPlaying": false,
+        "children": []
+      },
+      {
+        "id": "BaiTap02",
+        "title": "Choose the vowel team sentence that matches the picture",
+        "url": "https://drive.google.com/file/d/1E5NPsuZ9t52kLVAhPtNCG62q-FX-nB5k/view?usp=sharing",
+        "description": "",
+        "isPlaying": false,
+        "children": []
+      },
+      {
+        "id": "BaiTap03",
+        "title": "Complete the vowel team words",
+        "url": "https://drive.google.com/file/d/15MlUWpO7Gz2Te4RJgA0xwhHppFv2u3Qu/view?usp=sharing",
+        "description": "",
+        "isPlaying": false,
+        "children": []
+      },
+      {
+        "id": "BaiTap04",
+        "title": "Complete the word with the correct vowel team",
+        "url": "https://drive.google.com/file/d/1nvxD3lgbVp84EhMiCkB3gafFOijCaC15/view?usp=sharing",
+        "description": "",
+        "isPlaying": false,
+        "children": []
+      }
+    ]
+  }
+]

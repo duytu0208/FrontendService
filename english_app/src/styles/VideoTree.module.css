@@ -3,6 +3,7 @@
 .videoTree {
     list-style: none;
     padding: 10px;
+    text-align: left;
 }
 
 .videoTree li {
