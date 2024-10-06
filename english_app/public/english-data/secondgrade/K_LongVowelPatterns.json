@@ -1,0 +1,59 @@
+[
+  {
+    "id": "K_LongVowelPatterns",
+    "title": "K_LongVowelPatterns",
+    "url": "",
+    "description": "",
+    "isPlaying": false,
+    "children": [
+      {
+        "id": "BaiTap01",
+        "title": "Choose the words with a given long vowel",
+        "url": "https://drive.google.com/file/d/1TrNXva4FOgpcJHN4KJnDxk6LWZpfuO0m/view?usp=sharing",
+        "description": "",
+        "isPlaying": false,
+        "children": []
+      },
+      {
+        "id": "BaiTap02",
+        "title": "Spell The Long A Word Silent: e_ai_ay",
+        "url": "https://drive.google.com/file/d/1eO9FLwKou67jDGSfkRAnXE47YCCCeFA9/view?usp=sharing",
+        "description": "",
+        "isPlaying": false,
+        "children": []
+      },
+      {
+        "id": "BaiTap03",
+        "title": "Spell The Long E Word: ee_ea",
+        "url": "https://drive.google.com/file/d/1O_o66KHItPRzsMkhm_Iq9G2UXXneOX8s/view?usp=sharing",
+        "description": "",
+        "isPlaying": false,
+        "children": []
+      },
+      {
+        "id": "BaiTap04",
+        "title": "Spell The Long A Word_silent: e_ai_ay",
+        "url": "https://drive.google.com/file/d/1MgPCrF2uF8-q4JOy6uotc-a2jIyst30t/view?usp=sharing",
+        "description": "",
+        "isPlaying": false,
+        "children": []
+      },
+      {
+        "id": "BaiTap05",
+        "title": "Spell The Long O Word silent: e_oa_ow",
+        "url": "https://drive.google.com/file/d/19e64bKDr0g4BOsjteTYM2tfINdLalToy/view?usp=sharing",
+        "description": "",
+        "isPlaying": false,
+        "children": []
+      },
+      {
+        "id": "BaiTap06",
+        "title": "Spell The Long U Word silent: e_ue_oo_ew",
+        "url": "https://drive.google.com/file/d/1dmBUfE61Fesvk9CYyE1B8_jn1IRSnRpU/view?usp=sharing",
+        "description": "",
+        "isPlaying": false,
+        "children": []
+      }
+    ]
+  }
+]

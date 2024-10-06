@@ -1,0 +1,35 @@
+[
+  {
+    "id": "P_OpenAndClosedSyllables",
+    "title": "P_OpenAndClosedSyllables",
+    "url": "",
+    "description": "",
+    "isPlaying": false,
+    "children": [
+      {
+        "id": "BaiTap01",
+        "title": "Is The Syllable Open Or Closed",
+        "url": "https://drive.google.com/file/d/1LmLV9NlgNHXHPDNYHRebE96uwUE7d7WV/view?usp=sharing",
+        "description": "",
+        "isPlaying": false,
+        "children": []
+      },
+      {
+        "id": "BaiTap02",
+        "title": "Spell Words With Open And Closed Syllables",
+        "url": "https://drive.google.com/file/d/1mejzdrxi-Z1CrPesuhi-RLTByob2qQ9O/view?usp=sharing",
+        "description": "",
+        "isPlaying": false,
+        "children": []
+      },
+      {
+        "id": "BaiTap03",
+        "title": "Complete the sentence with the correct closed vowel exception word",
+        "url": "https://drive.google.com/file/d/1vJHQqeGJauIShAyAJG-E_yhgn9LZzl-s/view?usp=sharing",
+        "description": "",
+        "isPlaying": false,
+        "children": []
+      }
+    ]
+  }
+]

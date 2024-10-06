@@ -1,0 +1,43 @@
+[
+  {
+    "id": "Q_Two-syllableWords",
+    "title": "Q_Two-syllableWords",
+    "url": "",
+    "description": "",
+    "isPlaying": false,
+    "children": [
+      {
+        "id": "BaiTap01",
+        "title": "Q_Two-syllableWords_no1",
+        "url": "https://drive.google.com/file/d/18JfcWEZ_2LeGT-Nq_4VWJ369vShEOEM6/view?usp=sharing",
+        "description": "",
+        "isPlaying": false,
+        "children": []
+      },
+      {
+        "id": "BaiTap02",
+        "title": "Q_Two-syllableWords_no2",
+        "url": "https://drive.google.com/file/d/1AU70eb4c0-IbX0hx647pPrGLPNBkf5pz/view?usp=sharing",
+        "description": "",
+        "isPlaying": false,
+        "children": []
+      },
+      {
+        "id": "BaiTap03",
+        "title": "Q_Two-syllableWords_no3",
+        "url": "https://drive.google.com/file/d/1o9aPxjWNUh63hf0zi3yYl4dAsbm2KDzd/view?usp=sharing",
+        "description": "",
+        "isPlaying": false,
+        "children": []
+      },
+      {
+        "id": "BaiTap04",
+        "title": "Q_Two-syllableWords_no4",
+        "url": "https://drive.google.com/file/d/1x3xAiIpnyQmTs-K-7drDvJUkMrQPq3Ds/view?usp=sharing",
+        "description": "",
+        "isPlaying": false,
+        "children": []
+      }
+    ]
+  }
+]

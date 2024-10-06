@@ -1,0 +1,35 @@
+[
+  {
+    "id": "D_VariantDiphthongAndRVowelPatterns",
+    "title": "D_VariantDiphthongAndRVowelPatterns",
+    "url": "",
+    "description": "",
+    "isPlaying": false,
+    "children": [
+      {
+        "id": "BaiTap01",
+        "title": "Spell words with r vowel patterns",
+        "url": "https://drive.google.com/file/d/1y5VybSarjGjLX5WjFAXnxLVn0kmhGs0o/view?usp=sharing",
+        "description": "",
+        "isPlaying": false,
+        "children": []
+      },
+      {
+        "id": "BaiTap02",
+        "title": "Spell Words With Vowel Diphthong Patterns",
+        "url": "https://drive.google.com/file/d/1dylu26Fl671dv6N_2WbwpYh44F0Ayfdk/view?usp=sharing",
+        "description": "",
+        "isPlaying": false,
+        "children": []
+      },
+      {
+        "id": "BaiTap03",
+        "title": "Spell Words With Variant Vowels: oo_ou_ow_ea",
+        "url": "https://drive.google.com/file/d/1ernisB7B_Y0x1007aGN44kPFqc6UI118/view?usp=sharing",
+        "description": "",
+        "isPlaying": false,
+        "children": []
+      }
+    ]
+  }
+]

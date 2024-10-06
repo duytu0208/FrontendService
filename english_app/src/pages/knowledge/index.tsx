@@ -2,8 +2,10 @@
 import { useState } from 'react';
 import Layout from '../../components/Layout';
 import Sidebar from '../../components/Sidebar';
-import Kindergarten from '../../components/topics/Kindergarten'; // Import component để hiển thị flash cards
-import Firstgrade from '../../components/topics/Firstgrade'; // Import component để hiển thị flash cards
+import Kindergarten from '../../components/topics/Kindergarten';
+import Firstgrade from '../../components/topics/Firstgrade';
+import Secondgrade from '../../components/topics/Secondgrade';
+import Thirdgrade from '../../components/topics/Thirdgrade';
 
 type Topic = {
     id: string;
@@ -24,6 +26,16 @@ const topics: Topic[] = [
         id: 'firstgrade',
         title: 'Firstgrade',
         subtopics: []
+    },
+    {
+        id: 'secondgrade',
+        title: 'Secondgrade',
+        subtopics: []
+    },
+    {
+        id: 'thirdgrade',
+        title: 'Thirdgrade',
+        subtopics: []
     }
 ];
 
@@ -40,6 +52,12 @@ const KnowledgePage = () => {
                 break;
             case 'firstgrade':
                 component = <Firstgrade />;
+                break;
+            case 'secondgrade':
+                component = <Secondgrade />;
+                break;
+            case 'thirdgrade':
+                component = <Thirdgrade />;
                 break;
             // Thêm các case cho các topic khác nếu có
             default:

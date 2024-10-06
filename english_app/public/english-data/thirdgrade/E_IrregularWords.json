@@ -1,0 +1,27 @@
+[
+  {
+    "id": "E_IrregularWords",
+    "title": "E_IrregularWords",
+    "url": "",
+    "description": "",
+    "isPlaying": false,
+    "children": [
+      {
+        "id": "BaiTap01",
+        "title": "Select The Letters That Make A Given Sound",
+        "url": "https://drive.google.com/file/d/1e2-HUF1zxmwCLkWNOlFspnaphg9hupUK/view?usp=sharing",
+        "description": "",
+        "isPlaying": false,
+        "children": []
+      },
+      {
+        "id": "BaiTap02",
+        "title": "Spell the sight word harder",
+        "url": "https://drive.google.com/file/d/1Ej9__dzGWldL07Xl6cAWo7RCyaC8biQ0/view?usp=sharing",
+        "description": "",
+        "isPlaying": false,
+        "children": []
+      }
+    ]
+  }
+]
